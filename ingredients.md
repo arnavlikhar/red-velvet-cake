@@ -1,0 +1,4 @@
+eggs
+tomato
+onions
+salt
